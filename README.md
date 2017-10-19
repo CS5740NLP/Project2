@@ -11,3 +11,8 @@ Make sure `lib` folder exists!
 `lib` folder has main `HMM.py` file which is called by `baseline.py`
 Run baseline.py directly.
 
+3. CRF model
+Open the CRF.ipynb using jupyter notebook and run the blocks one by one. 
+
+
+
